@@ -1,0 +1,2 @@
+# EarthQuake-Prediction
+predict magnitude
